@@ -1,5 +1,5 @@
 # Cyber-Security-Nuclei-Project
-# Görev 5: Nuclei Araç İncelemesi ve Teknik Analiz
+
 # Görev 5: Güncel Yapay Zekâ ve Siber Güvenlik Repoları - Nuclei İncelemesi
 
 Bu repo, staj programı kapsamında **Nuclei** zafiyet tarama aracının incelenmesi, yerel test ortamının kurulması ve canlı tarama testlerinin gerçekleştirilmesi amacıyla hazırlanmıştır.
